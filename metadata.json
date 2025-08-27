@@ -1,0 +1,5 @@
+{
+  "name": "Price Genie",
+  "description": "An AI-powered tool to analyze car rental prices from live websites in the UAE. Get detailed price breakdowns and competitive recommendations.",
+  "requestFramePermissions": []
+}
